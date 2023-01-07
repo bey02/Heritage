@@ -1,0 +1,28 @@
+Titre de l'application : Calculateur d'héritage
+Auteur : Bey
+
+Description :
+Calculateur d'héritage est une application qui permet de déterminer combien chaque membre de la famille 
+hérite en fonction de la répartition des biens. L'application utilise les règles de succession en vigueur 
+dans le pays où se situe la famille pour calculer les parts d'héritage de chaque membre.
+
+Licence :
+Calculateur d'héritage est distribué sous licence GPL (GNU General Public License). 
+Vous pouvez trouver une copie de cette licence sur le site web de la Free Software Foundation.
+
+Distribution et modification :
+Vous pouvez redistribuer et/ou modifier Calculateur d'héritage selon les termes de la licence GPL. 
+N'oubliez pas de fournir une copie de la licence avec l'application et de mentionner toute modification 
+apportée à l'application.
+
+Garantie :
+Calculateur d'héritage est distribué sans garantie, expresse ou implicite. L'utilisation de l'application 
+se fait à vos propres risques.
+
+Attributions :
+Calculateur d'héritage utilise la bibliothèque Experta de Python. Merci à son auteur pour sa contribution à 
+cette application.
+
+Si vous avez des questions ou rencontrez des problèmes avec Calculateur d'héritage, 
+n'hésitez pas à nous contacter à l'adresse email suivante : beydji92@gmail.com. 
+Nous ferons de notre mieux pour vous aider.
