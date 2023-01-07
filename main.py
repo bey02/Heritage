@@ -44,7 +44,10 @@ class Ui_MainWindow(object):
             
             #print(int(self.lineEdit.text()))
         except:
-            print("Please Enter INTEGER")
+            self.textEdit.setText("Entrer un entier !")
+            font = QFont("Arial", 10)
+            self.textEdit.setFont(font)
+            self.textEdit.setStyleSheet("color: white;")
         
         
     def setupUi(self, MainWindow):
