@@ -1,5 +1,5 @@
 Titre de l'application : Calculateur d'héritage
-Auteur : Bey
+Auteur : Djilah Bey & Hireche M.Anis
 
 Description :
 Calculateur d'héritage est une application qui permet de déterminer combien chaque membre de la famille 
